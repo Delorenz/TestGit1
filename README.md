@@ -24,4 +24,4 @@
       -api_fetch.info.yml
       -api_fetch_module: Assignation du template au controller
       -api_fetch.routing.yml
-      -api_fetch.services.yml: Déclaration des service (cf Drupal Dependency Injection/Container)
+      -api_fetch.services.yml: Déclaration des service (cf Drupal Dependency Injection/Container: https://www.drupal.org/docs/8/api/services-and-dependency-injection/services-and-dependency-injection-in-drupal-8)
