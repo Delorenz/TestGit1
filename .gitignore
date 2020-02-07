@@ -1,0 +1,26 @@
+## generic files to ignore
+core/*
+libraries/*
+misc/*
+profiles/*
+sites/*
+themes/*
+vendor/*
+.csslintrc
+.editorconfig
+.eslintrc.json
+.gitattributes
+.ht.router.php
+.htaccess
+autoload.php
+composer.json
+composer.lock
+getDefinitions()))
+index.php
+INSTALL.txt
+LICENECE.txt
+PATCHES.txt
+README.txt
+robots.txt
+update.php
+web.config
