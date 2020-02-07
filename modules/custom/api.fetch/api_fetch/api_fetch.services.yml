@@ -1,0 +1,16 @@
+services:
+  ApiFetchClient:
+    class: Drupal\api_fetch\Services\ApiFetchClient
+    arguments:
+      - '@http_client_factory'
+     
+  ApiFetchCsv:
+    class: Drupal\api_fetch\Services\ApiFetchCsv
+    #arguments:
+    #  - ''
+  ApiFetchStudent:
+    class: Drupal\api_fetch\Services\ApiFetchStudent
+    #arguments:
+    #  - ''
+  ApiFetchAssign:
+    class: Drupal\api_fetch\Services\ApiFetchAssign
